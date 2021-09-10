@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  jdk8:
+    image: jdk-8
+  jdk11:
+    image: jdk-11
+  jdk16:
+    image: jdk-16
