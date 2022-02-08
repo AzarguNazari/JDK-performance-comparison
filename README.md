@@ -1,6 +1,6 @@
 # Performance Comparison between JDK 8, 11, and 16
 
-- Performance Comparison
+- Resource Consumption Comparison
 ![](https://github.com/AzarguNazari/JDK-performance-comparison/blob/main/images/img.png?raw=true)
 
 - Container Size comparison
