@@ -3,7 +3,13 @@ version: '3'
 services:
   jdk8:
     image: jdk-8:0.0.1-SNAPSHOT
+    ports:
+      - 8080:8080
   jdk11:
     image: jdk-11:0.0.1-SNAPSHOT
-  jdk16:
-    image: jdk-16:0.0.1-SNAPSHOT
+    ports:
+      - 8081:8080
+  jdk17:
+    image: jdk-17:0.0.1-SNAPSHOT
+    ports:
+      - 8082:8080
