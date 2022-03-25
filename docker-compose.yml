@@ -13,3 +13,7 @@ services:
     image: jdk-17:0.0.1-SNAPSHOT
     ports:
       - 8082:8080
+  jdk18:
+    image: jdk-18:0.0.1-SNAPSHOT
+    ports:
+      - 8083:8080
