@@ -5,4 +5,5 @@ do
 	curl http://localhost:8080/
 	curl http://localhost:8081/
 	curl http://localhost:8082/
+	curl http://localhost:8083/
 done
